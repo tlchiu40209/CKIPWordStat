@@ -30,6 +30,6 @@ The program will generate two CSV file
 The two files contain the frequency of each category and the frequency of each word respectively.
 License
 ----------
-CKIPWordStat lisensed under [GNU General Public License v 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
+CKIPWordStat licensed under [GNU General Public License v 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 CKIPWordStat was done by [Wayne Chiu](https://twitter.com/WayneTChiu) in [National Donghwa University](http://www.ndhu.edu.tw) [Digital Content Laboratory](http://dc.ndhu.edu.tw) on 2017/1/23 03:36 am.
