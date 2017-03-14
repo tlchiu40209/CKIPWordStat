@@ -28,6 +28,7 @@ The program will generate two CSV file
 >2. [Your_output_file]_WordStat.csv
 
 The two files contain the frequency of each category and the frequency of each word respectively.
+
 License
 ----------
 CKIPWordStat licensed under [GNU General Public License v 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
