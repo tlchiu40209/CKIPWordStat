@@ -20,6 +20,7 @@ Also, there are additional configuration needed to be setup on CKIPServer:
 >ws.ini:
 >[CSimpleProbModelResult]
 >ShowCategory=**True**
+> NewStyleFormat=**True**
 
 Output
 ----------
